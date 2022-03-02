@@ -1,1 +1,1 @@
-mkdir-p welcome/to/school
+ls -pamv
