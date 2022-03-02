@@ -1,1 +1,1 @@
-rm *~
+mkdir-p welcome/to/school
