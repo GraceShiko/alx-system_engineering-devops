@@ -1,2 +1,2 @@
-ls -pamv
+0 string SCHOOL School data
 !:mime School
