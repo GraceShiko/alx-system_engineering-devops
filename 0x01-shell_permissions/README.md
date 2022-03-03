@@ -1,1 +1,1 @@
-chmod ug+x,o+r hello
+chmod 754 hello
