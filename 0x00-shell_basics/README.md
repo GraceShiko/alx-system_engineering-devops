@@ -1,1 +1,1 @@
-file-i-m school.mgc
+file-i-m school.mgc*
